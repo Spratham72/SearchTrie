@@ -15,7 +15,7 @@ Welcome to the React Trie Search App! This application provides word suggestions
 
 ## Demo
 
-![React Trie Search App Demo](insert-gif-or-screenshot-url-here)
+![React Trie Search App Demo](https://github.com/Spratham72/SearchTrie/blob/main/public/Screenshot%202024-02-01%20at%201.24.48%E2%80%AFAM.png)
 
 ## Getting Started
 
